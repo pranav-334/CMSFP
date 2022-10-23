@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Online Complaint Management</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="depApptitle">Welcome to OCMS Online Complaint Management Department</string>
+    <string name="userApptitle">Welcome to OCMS Online Complaint Management User</string>
+    <string name="wtrCmplts">Complaints</string>
+    <string name="Username">UserName</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="EnterPhoneNumber">Enter Phone Number</string>
+    <string name="EnterAddress">Enter Address</string>
+</resources>
